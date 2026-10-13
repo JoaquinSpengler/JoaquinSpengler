@@ -31,11 +31,6 @@ Software Engineer with 3 years of experience building scalable web applications 
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 
-### ⚙️ &nbsp;GitHub Analytics
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sandofvega&theme=algolia&hide_border=true&mode=weekly)](https://git.io/streak-stats)
-![](https://github-readme-stats-eight-theta.vercel.app/api?username=sandofvega&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true)
-
 ### 🤝🏻 &nbsp;Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquinspengler/)
